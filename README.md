@@ -4,13 +4,16 @@
 
 ## Languages and tools
 
-![HTML](https://img.shields.io/badge/HTML #E44D26)
-![CSS](https://img.shields.io/badge/CSS #1572B6)
-![SCSS](https://img.shields.io/badge/SCSS #CC6699)
-![JavaScript](https://img.shields.io/badge/JavaScript #F7DF1E)
-![React](https://img.shields.io/badge/React #61DAFB)
-![Redux](https://img.shields.io/badge/Redux #764ABC)
-![TypeScript](https://img.shields.io/badge/TypeScript #3178C6)
-![Git](https://img.shields.io/badge/Git #F1502F)
+![html](https://img.shields.io/badge/html-E44D26?logo=html)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=scss)
+![JavaScript](https://img.shields.io/badge/javascript-blue?logo=javascript)
+![React](https://img.shields.io/badge/React-11DAFB?logo=React)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=Redux)
+![TypeScript](https://img.shields.io/badge/TypeScript-7178D1?logo=TypeScript)
+![Git](https://img.shields.io/badge/Git-D1502F?logo=Git)
+
+
+
 
 ## Follow me
