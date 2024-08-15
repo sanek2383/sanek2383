@@ -2,7 +2,7 @@
 
 ## Веб-разработчик, обладающий знаниями в области адаптивной и кроссбраузерной верстки. Мои ключевые навыки включают работу с HTML, CSS, SCSS, JavaScript и React, а также TypeScript и опыт использования системы контроля версий Git.
 
-## Languages and tools
+## Skills and tools
 
 ![html](https://img.shields.io/badge/html-E44D26?logo=html)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css)
