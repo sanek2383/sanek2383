@@ -1,4 +1,4 @@
-[![Header](https://github.com/sanek2383/sanek2383/blob/main/assets/Git-Logo-White.png)]
+![Header](https://github.com/sanek2383/sanek2383/blob/main/assets/Git-Logo-White.png)
 
 ## Веб-разработчик, обладающий знаниями в области адаптивной и кроссбраузерной верстки. Мои ключевые навыки включают работу с HTML, CSS, SCSS, JavaScript и React, а также базовые знания TypeScript и опыт использования системы контроля версий Git.
 
