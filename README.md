@@ -10,10 +10,10 @@
 ![JavaScript](https://img.shields.io/badge/javascript-blue?logo=javascript)
 ![React](https://img.shields.io/badge/React-11DAFB?logo=React)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=Redux)
-![TypeScript](https://img.shields.io/badge/TypeScript-7178D1?logo=TypeScript)
+![TypeScript](https://img.shields.io/badge/TypeScript-5191f0?logo=TypeScript)
 ![Git](https://img.shields.io/badge/Git-D1502F?logo=Git)
 
 
-
-
 ## Follow me
+[![Telegram](https://img.shields.io/badge/Telegram-11DAFB?logo=Telegram)](https://t.me/AleksandrS2183)
+[![Mail](https://img.shields.io/badge/Mail-2011cf?logo=Mail)](https://e.mail.ru/compose/?to=sanek2383@mail.ru)
