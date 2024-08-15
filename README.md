@@ -1,6 +1,8 @@
 ![Header](https://github.com/sanek2383/sanek2383/blob/main/assets/quote-2024-08-15-d504452baf425753fb3072b2cdc1afd9.jpg)
 
-## A frontend developer with knowledge in the field of adaptive and cross-browser layout. My key skills include working with HTML, CSS, SCSS, JavaScript and React, as well as TypeScript and experience using the Git version control system.
+## My name is Alexander, I have been engaged in front-end development since 2022.
+
+## I have the skills of HTML, CSS, SCSS, JavaScript and React, as well as TypeScript and the use of the Git version control system.
 
 ## Skills and tools
 
